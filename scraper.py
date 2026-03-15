@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Pavel Mironov
+# Licensed under the MIT License. See LICENSE for details.
+
 import requests
 import time
 import csv
